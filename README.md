@@ -113,6 +113,9 @@ For building face mask based door system, we used machine learning model using K
 ## Project Presentation Slide
 <!-- Upload the project presentation slide in GitHub in pdf format and drop a link here. The current link is a dummy one. -->
 [Here](/Face%20Mask%20Detection.pdf) is the presentation slide of the project.
+## Project Video
+Video link: https://youtu.be/0jMaoI3Y3kA
+
 
 Technical Documentation/ Instruction to Deploy the Project
 ----------------------------------------------------------
